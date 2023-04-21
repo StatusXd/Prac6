@@ -6,4 +6,7 @@
     <string name="CHANNEL_ID">Flighscope App</string>
     <string name="CHANNEL_NAME">Aviatrack App</string>
     <string name="CHANNEL_DESCRIPTION">Notifications about flight</string>
+    <string name="window">Наложение поверх окон</string>
+    <string name="back_to_app">Вернуться в приложение</string>
+    <string name="exit">Выйти</string>
 </resources>
