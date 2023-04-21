@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FlightScope</string>
+    <string name="helo">Добро пожаловать в FlightScope</string>
+    <string name="flightnumber">Введите номер авиарейса</string>
+    <string name="search">Найти</string>
+    <string name="CHANNEL_ID">Flighscope App</string>
+    <string name="CHANNEL_NAME">Aviatrack App</string>
+    <string name="CHANNEL_DESCRIPTION">Notifications about flight</string>
+</resources>
